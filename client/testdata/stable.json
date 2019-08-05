@@ -1,0 +1,107 @@
+{
+  "release_info": {
+    "version": "2135.5.0",
+    "release_date": "2019-07-02 20:52:42 +0000",
+    "platform": "aws"
+  },
+  
+  "ap-northeast-1": {
+    "hvm": "ami-070d50353dfb032ba",
+    "pv": "ami-09673be92fa59a18c"
+  },
+  
+  "ap-northeast-2": {
+    "hvm": "ami-041a583a9761bda64",
+    "pv": ""
+  },
+  
+  "ap-south-1": {
+    "hvm": "ami-083eec4a98ca0396b",
+    "pv": ""
+  },
+  
+  "ap-southeast-1": {
+    "hvm": "ami-0bdf64786279efbbc",
+    "pv": "ami-06b44b502238c091d"
+  },
+  
+  "ap-southeast-2": {
+    "hvm": "ami-0bb7c56044b64aa56",
+    "pv": "ami-0cc32476b1b941cf3"
+  },
+  
+  "ca-central-1": {
+    "hvm": "ami-082a1a74cfc2d2403",
+    "pv": ""
+  },
+  
+  "cn-north-1": {
+    "hvm": "ami-0d8ca8372e3b0aff4",
+    "pv": "ami-0fe0dc6001c982cb6"
+  },
+  
+  "cn-northwest-1": {
+    "hvm": "ami-049ed451bb483d4be",
+    "pv": ""
+  },
+  
+  "eu-central-1": {
+    "hvm": "ami-0cfac31dd01a5f898",
+    "pv": "ami-051b84d3e0a89fec0"
+  },
+  
+  "eu-north-1": {
+    "hvm": "ami-009c476af4072d56a",
+    "pv": ""
+  },
+  
+  "eu-west-1": {
+    "hvm": "ami-053d1b6039e1098d4",
+    "pv": "ami-0898e2390ed497160"
+  },
+  
+  "eu-west-2": {
+    "hvm": "ami-09e2e4b79ea105d0f",
+    "pv": ""
+  },
+  
+  "eu-west-3": {
+    "hvm": "ami-0a409979da233373a",
+    "pv": ""
+  },
+  
+  "sa-east-1": {
+    "hvm": "ami-0b2f9ee1da741ad19",
+    "pv": "ami-0ef096d9aa2909669"
+  },
+  
+  "us-east-1": {
+    "hvm": "ami-02b51824b39a1d52a",
+    "pv": "ami-01d492ec136ec8359"
+  },
+  
+  "us-east-2": {
+    "hvm": "ami-03aa12465ead76468",
+    "pv": ""
+  },
+  
+  "us-gov-east-1": {
+    "hvm": "ami-0dc23aad3fa5a13c9",
+    "pv": ""
+  },
+  
+  "us-gov-west-1": {
+    "hvm": "ami-6f5d190e",
+    "pv": "ami-e35b1f82"
+  },
+  
+  "us-west-1": {
+    "hvm": "ami-04a1dd7b81fe80e40",
+    "pv": "ami-084c9acb389f1801b"
+  },
+  
+  "us-west-2": {
+    "hvm": "ami-071f4352a744b29aa",
+    "pv": "ami-0108b87fd991ef10e"
+  }
+}
